@@ -8,13 +8,12 @@ This project demonstrates how to use Docker to containerize and run a simple Jav
 - Dockerfile – Instructions for building the Docker image  
 - Main.class – Compiled Java class generated after building the project   
 
-## Team Members  
-- Mitali  -
-- Wania Tajammal  -
-- Madhuri  -
-- Jonathan  -
-- Raiyan  -
-- Ayaan  -
+## Team Members and Responsibilities
+Project Management: Wania Tajammal
+
+Coders: Jonathan, Mitali
+
+Support and review members: Raiyan, Madhuri Kola, Ayaan
 
 ## Expected Output  
 Hello, Docker and Java!
