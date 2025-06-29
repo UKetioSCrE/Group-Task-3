@@ -16,7 +16,7 @@ Coders: Jonathan, Mitali
 Support and review members: Raiyan, Madhuri Kola, Ayaan
 
 ## Expected Output  
-Hello, Docker and Java!
+Hello and welcome!
 
 ## How We Used Docker  
 In this task, we used Docker to containerize and run our Java program. A Docker container provides a lightweight and consistent environment that ensures the application runs the same regardless of the host system.
